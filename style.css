@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+}
+h1{
+    background-color: teal;
+    color: yellowgreen;
+    text-align: center;
+    font-style: bold;
+    width: 50%;
+    padding: auto;
+    translate: 50%;
+}
+h3{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+button{
+    color: chartreuse;
+    translate: 1000%;
+}
+.a{
+    color: blue;
+    text-align: center;
+    background-color: red;
+}
+.b{
+    color: yellow;
+    text-align: center;
+    background-color: aqua;
+}
+.c{
+    color: tomato;
+    text-align: center;
+    background-color: chocolate;
+}
